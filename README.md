@@ -7,5 +7,5 @@ Al/ML-based fake news detector is crucial for companies and media to automatical
 
 Technology: Data Science | Data Visualization | Tensorflow 2.0 | Fake News Detection | Natural Language Processing (NLP) | Recurrent Neural Networks (RNNs) | Long Short Term Memory (LSTM) | Python | Deep Neural Networks | Artificial Neural Networks | Neural Networks | Deep Learning | Machine Learning | Artificial Intelligence
 
-## train_accuracy: 1.0000
-## test_accuracy: 0.9963
+## train_accuracy: 0.9997
+## test_accuracy: 0.9989
